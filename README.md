@@ -2,7 +2,7 @@
 
 This project is a Java-based Duck Simulator implementing the **Strategy Design Pattern**. It models various duck types and their interchangeable behaviors for flying, quacking, and swimming.
 
-## 📦 Overview
+## Overview
 
 The goal of this project is to demonstrate how different types of ducks can share behaviors while maintaining flexibility through composition over inheritance.
 
@@ -74,15 +74,7 @@ rubberDuck.performFly();   // Output: I can't fly.
 rubberDuck.performQuack(); // Output: Squeak!
 ```
 
-## 📚 Educational Purpose
-
-This simulation is ideal for learning:
-
-- The Strategy Design Pattern
-- Interface-based programming
-- Clean separation of concerns
-
-## 👨💻 Author
+## 💻 Author
 
 **Utkarsh Lakhani** 
 
